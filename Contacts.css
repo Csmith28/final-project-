@@ -1,0 +1,24 @@
+
+body
+{ text-align:center;
+
+
+}
+table
+{
+width:350px;
+height:350px;
+border-collapse:collapse;
+
+}
+#title
+{
+font-size="300px"
+}
+ td {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    color: white;
+    transition: transform 4s, width 2s, height 2s;
+}
